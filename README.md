@@ -10,7 +10,7 @@
 - 🏦 I'm Software Engineer with a background in growth marketing and an interest in AI and ML 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use almost daily: **C#** , **.NET** , **js**, **REACT**
-- 💻 Lately I use a lot: **NodeJS** **.py**,  **.sql** , **Firebase**, **AzureML**
+- 💻 Lately I use a lot: **NodeJS** , **.py**,  **.sql** , **Firebase**, **AzureML**
 - 🎯 I am currently doing **30 Days of Azure AI** by Microsoft
 - 💬 Talk to me about machine learning, backend development, marketing & startups
 - 📅 In my free time I solve programming challenges at Codewars, cook, read, ...
