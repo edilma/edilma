@@ -7,7 +7,7 @@
 
 
 ###  About Me:
-- 🏦 I'm Software Engineering with a background in growth marketing and an interest in AI and ML 
+- 🏦 I'm Software Engineer with a background in growth marketing and an interest in AI and ML 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 💻 I use almost daily: **C#** , **.NET** , **js**, **REACT**
