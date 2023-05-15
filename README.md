@@ -26,6 +26,7 @@
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="120" height="60"/>
       <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GIT" width="120" height="60"/> 
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React Js" width="120" height="60"/>
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter Notebooks" width="120" height="60"/>
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud" width="120" height="60"/>
       <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg" alt="Google Analytics" width="120" height="60"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="120" height="60"/>
