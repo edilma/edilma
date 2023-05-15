@@ -11,7 +11,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use almost daily: **C#** , **.NodeJS** , **PYTHON**, **REACT**
 - 💻 Lately I use a lot: **AzureAI** **Jupyter Notebooks** , **Watson Studio** , **Powershell**
-- 🎯 I am currently training myself in **Machine Learning with Azure AI** by Microsoft and 
+- 🎯 I am currently training myself in **Machine Learning ** 
 - 💬 Talk to me about machine learning, backend development, marketing & startups
 - 📅 In my free time I solve programming challenges at Codewars, cook, read, ...
 - 👯 We can connect and workout with Zumba! 💃🏻
