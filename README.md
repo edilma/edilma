@@ -7,7 +7,7 @@
 
 
 ###  About Me:
-- 🏦 I'm an Industrial and Software Engineer with a background in growth marketing and an interest in Artificial Intelligence and Machine Learning 
+- 🏦 I'm an Industrial and Software Engineer with an interest in Artificial Intelligence and Machine Learning 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 The programming languages I use the most are: **PYTHON**,**C#**,**.NET**, **SQL**, **REACT**,  **JS** 
 - 💻 Lately I use for my projects: **Azure Cognitive Services (AzureAI)**, **Prompt Engineering**, **Semantic Kernel** , **Powershell**
