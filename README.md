@@ -7,14 +7,14 @@
 
 
 ###  About Me:
-- 🏦 I'm a Software Engineer with a background in growth marketing and an interest in AI and ML 
+- 🏦 I'm an Industrial and Software Engineer with a background in growth marketing and an interest in Artificial Intelligence and Machine Learning 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use almost daily:  **C#**,**.NET**, **PYTHON**, **SQL**, **REACT**,  **JS** 
-- 💻 Lately I use a lot: **AzureAI**, **Jupyter Notebooks** , **Powershell**
-- 🎯 I am currently training myself in **Machine Learning ** 
+- 💻 The programming languages I use the most are: **PYTHON**,**C#**,**.NET**, **SQL**, **REACT**,  **JS** 
+- 💻 Lately I use for my projects: **Azure Cognitive Services (AzureAI)**, **Prompt Engineering**, **Semantic Kernel** , **Powershell**
+- 🎯 I am currently training myself in **Machine Learning ** , **AI**
 - 💬 Talk to me about machine learning, backend development, marketing & startups
-- 📅 In my free time I solve programming challenges at Codewars, cook, read, ...
-- 👯 We can connect and workout with Zumba! 💃🏻
+- 📅 In my free time I read, work-out, practice coding , travel, drink coffee and watch sci-fi...
+- 👯 We can connect talking about sci-fi, science or dancing Zumba! 💃🏻
 - ⚡ Fun fact: Hablo Espanol
 - 🧑‍💻 Tech I work on :
 
