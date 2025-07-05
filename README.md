@@ -12,7 +12,7 @@
 - 🏦 I'm an Industrial and Software Engineer with a growing focus on **Artificial Intelligence**, **Machine Learning**, and **Automation**
 - 💻 The languages I use the most: **Python**, **C#**, **.NET**, **SQL**, **JavaScript**, **React**
 - 🤖 I build AI-powered systems using tools like:  
-  `Azure Cognitive Services`, `OpenAI API`, `Prompt Engineering`, `Semantic Kernel`, `CrewAI`, `Autogen`, `Pinecone`, `LangChain`
+  `Azure Cognitive Services`, `OpenAI API`, `Prompt Engineering`, `Semantic Kernel`, `CrewAI`, `Autogen`,  `LangChain`
 - 📚 Recently earned the **Google Data Analytics Certificate**
 - 🎯 Currently building multi-agent AI workflows, RAG apps, and custom API pipelines
 - 💬 Ask me about: AI/ML systems, backend automation, RAGs, prompt design, or startups
@@ -36,22 +36,6 @@ I'm constantly exploring how to apply cutting-edge tools and frameworks to solve
 🚧 I'm currently diving deeper into **LLM orchestration**, **vector databases**, and **automated pipelines** for end-to-end intelligent systems.
 
 ---
-
-### 🛠️ Tech I Work With
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-black?logo=python&style=flat-square" />
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=flat-square" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat-square" />
-  <img src="https://img.shields.io/badge/-React-black?logo=react&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Azure-blue?logo=microsoft-azure&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Google_Cloud-grey?logo=google-cloud&style=flat-square" />
-  <img src="https://img.shields.io/badge/-.NET-purple?logo=.net&style=flat-square" />
-  <img src="https://img.shields.io/badge/-MySQL-orange?logo=mysql&style=flat-square" />
-  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Jupyter-black?logo=jupyter&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&style=flat-square" />
 </p>
 
 ---
@@ -67,9 +51,7 @@ Check out some of my pinned repositories:
 - [AutoTracker](https://github.com/yourusername/AutoTracker): Car maintenance tracking tool using NHTSA data
 
 ---
-
-✨ Let's connect and build smarter systems together!
-
+### 🛠️ Tech I Work With
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Nodejs" width="120" height="60"/>
@@ -86,6 +68,28 @@ Check out some of my pinned repositories:
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="120" height="60"/>
 </p>
+---
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<!-- Additions -->
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
@@ -109,3 +113,5 @@ Check out some of my pinned repositories:
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
+✨ Let's connect and build smarter systems together!
