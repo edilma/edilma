@@ -3,20 +3,73 @@
 <a href="https://linkedin.com/in/edilma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Edilma Riano" height="30" width="30" /></a>&nbsp;
 
 </p>
+<h2 align="center">👋 Hi there, I'm an Industrial and Software Engineer passionate about AI, ML & Automation</h2>
 
+---
 
+### 🧑‍💻 About Me
 
-###  About Me:
-- 🏦 I'm an Industrial and Software Engineer with an interest in Artificial Intelligence and Machine Learning 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 The programming languages I use the most are: **PYTHON**,**C#**,**.NET**, **SQL**, **REACT**,  **JS** 
-- 💻 Lately I use for my projects: **Azure Cognitive Services (AzureAI)**, **Prompt Engineering**, **Semantic Kernel** , **Powershell**
-- 🎯 I am currently training myself in **Machine Learning ** , **AI**
-- 💬 Talk to me about machine learning, backend development, marketing & startups
-- 📅 In my free time I read, work-out, practice coding , travel, drink coffee and watch sci-fi...
-- 👯 We can connect talking about sci-fi, science or dancing Zumba! 💃🏻
-- ⚡ Fun fact: Hablo Espanol
-- 🧑‍💻 Tech I work on :
+- 🏦 I'm an Industrial and Software Engineer with a growing focus on **Artificial Intelligence**, **Machine Learning**, and **Automation**
+- 💻 The languages I use the most: **Python**, **C#**, **.NET**, **SQL**, **JavaScript**, **React**
+- 🤖 I build AI-powered systems using tools like:  
+  `Azure Cognitive Services`, `OpenAI API`, `Prompt Engineering`, `Semantic Kernel`, `CrewAI`, `Autogen`, `Pinecone`, `LangChain`
+- 📚 Recently earned the **Google Data Analytics Certificate**
+- 🎯 Currently building multi-agent AI workflows, RAG apps, and custom API pipelines
+- 💬 Ask me about: AI/ML systems, backend automation, RAGs, prompt design, or startups
+- 📅 In my free time, I read sci-fi, work out, travel, or dance Zumba 💃
+- ⚡ Fun fact: **Hablo Español**
+
+---
+
+### 🧠 Staying Current in AI, ML & Automation
+
+I'm constantly exploring how to apply cutting-edge tools and frameworks to solve real-world problems. Some highlights:
+
+- 🤖 **Multi-Agent Systems**: I design agent-based workflows using **Autogen** and **CrewAI** for tasks like automated blog generation, SEO review, and structured decision-making. ([AI-Agent-Orchestrator](https://github.com/edilma/AI-Agent-Orchestrator))
+- 📄 **Document-Aware Chatbots**: Built a ChatGPT-like app using **RAG (Retrieval-Augmented Generation)** with **Semantic Kernel** and **Azure Cognitive Services**. ([RAG-App-HackTogether](https://github.com/edilma/RAG-App-HackTogether))
+- 📊 **Data Extraction Pipelines**: Created tools for processing scanned documents using **Form Recognizer** and Python.
+- 🌐 **API Automation**: Developed backend APIs using **Node.js**, **.NET**, and deployed them in the cloud (Azure & Google Cloud).
+- 🔍 **Prompt Engineering & LLM Ops**: Skilled in building reliable, context-aware AI apps that use **prompt engineering** and **RAG** to deliver tailored responses.
+
+🎓 I also completed the **Google Data Analytics Certificate**, reinforcing my ability to clean, analyze, and visualize data to drive insights.
+
+🚧 I'm currently diving deeper into **LLM orchestration**, **vector databases**, and **automated pipelines** for end-to-end intelligent systems.
+
+---
+
+### 🛠️ Tech I Work With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-black?logo=python&style=flat-square" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=flat-square" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat-square" />
+  <img src="https://img.shields.io/badge/-React-black?logo=react&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Azure-blue?logo=microsoft-azure&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Google_Cloud-grey?logo=google-cloud&style=flat-square" />
+  <img src="https://img.shields.io/badge/-.NET-purple?logo=.net&style=flat-square" />
+  <img src="https://img.shields.io/badge/-MySQL-orange?logo=mysql&style=flat-square" />
+  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Jupyter-black?logo=jupyter&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&style=flat-square" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+Check out some of my pinned repositories:
+- [AI-Agent-Orchestrator](https://github.com/yourusername/AI-Agent-Orchestrator): Autonomous AI agent system using Autogen for blog generation & SEO review
+- [RAG-App-HackTogether](https://github.com/yourusername/RAG-App-HackTogether): RAG chatbot with Semantic Kernel + Azure AI, powered by C#
+- [FormRecognizer](https://github.com/yourusername/FormRecognizer): Document extractor using Azure Cognitive Services
+- [leads-api](https://github.com/yourusername/leads-api): Node.js API for lead distribution, deployed on Google Cloud
+- [coffeeWebAPI](https://github.com/yourusername/coffeeWebAPI): .NET 7 WebAPI for a coffee store ☕
+- [AutoTracker](https://github.com/yourusername/AutoTracker): Car maintenance tracking tool using NHTSA data
+
+---
+
+✨ Let's connect and build smarter systems together!
+
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Nodejs" width="120" height="60"/>
