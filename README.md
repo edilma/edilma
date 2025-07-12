@@ -44,7 +44,7 @@ I'm constantly exploring how to apply cutting-edge tools and frameworks to solve
 
 Check out some of my pinned repositories:
 - [AI-Agent-Orchestrator](https://github.com/edilma/AI-Agent-Orchestrator): Autonomous AI agent system using Autogen for blog generation & SEO review
-- [RAG-App-HackTogether](https://edilma/yourusername/RAG-App-HackTogether): RAG chatbot with Semantic Kernel + Azure AI, powered by C#
+- [RAG-App-HackTogether](https://github.com/edilma/RAG-App-HackTogether): RAG chatbot with Semantic Kernel + Azure AI, powered by C#
 - [FormRecognizer](https://github.com/edilma/FormRecognizer): Document extractor using Azure Cognitive Services
 - [leads-api](https://github.com/edilma/leads-api): Node.js API for lead distribution, deployed on Google Cloud
 - [coffeeWebAPI](https://github.com/edilma/coffeeWebAPI): .NET 7 WebAPI for a coffee store ☕
